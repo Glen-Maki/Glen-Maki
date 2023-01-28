@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 ![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glen-Maki&theme=2077)
 
 ![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glen-Maki&theme=2077)
-
 ![github-profile-summary-cards](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glen-Maki&theme=2077)
-
